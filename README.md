@@ -14,6 +14,9 @@
 
 #[lab08](https://github.com/Sanath34/aiml/blob/main/AIML%20LAB_08.ipynb)
 
+#[lab09](https://github.com/Sanath34/aiml/blob/main/Lab%2009.ipynb)
+
+
 
 
 
