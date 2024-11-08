@@ -10,4 +10,7 @@
 
 #[lab06](https://github.com/Sanath34/aiml/blob/main/Lab06-AIML%20(1)%20(1).ipynb)
 
+#[lab07](https://github.com/Sanath34/aiml/blob/main/AIML_LAB_07%20(1).ipynb)
+
+
 
