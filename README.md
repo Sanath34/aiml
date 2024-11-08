@@ -4,5 +4,7 @@
 
 #[lab03](https://github.com/Sanath34/aiml/blob/main/Lab3_AIML.ipynb)
 
-
 #[lab04](https://github.com/Sanath34/aiml/blob/main/LAB_AIML_4%20(1).ipynb)
+
+#[lab05](https://github.com/Sanath34/aiml/blob/main/Assignment_5.ipynb)
+
