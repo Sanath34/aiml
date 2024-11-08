@@ -8,3 +8,6 @@
 
 #[lab05](https://github.com/Sanath34/aiml/blob/main/Assignment_5.ipynb)
 
+#[lab06](https://github.com/Sanath34/aiml/blob/main/Lab06-AIML%20(1)%20(1).ipynb)
+
+
